@@ -1,0 +1,47 @@
+{
+    "liceos": [
+        {
+            "nombreCompleto": "Plaza Líber Falco",
+            "lugar": "plaza",
+            "nombre": "Líber Falco",
+            "descripcion": "Plaza dedicada al célebre autor Líber Falco, poeta de gran calibre quien nació en éste barrio.",
+            "agregado": "la",
+            "latitud": -34.8740120385437,
+            "longitud": -56.17610955260439,
+            "link": "https://es.wikipedia.org/wiki/Líber_Falco"
+        },
+        {
+            "nombreCompleto": "Comando General del Ejercito",
+            "lugar": "",
+            "nombre": "comando general del ejercito",
+            "descripcion": "Lugar donde pasan cosas que solamente podrían pasar en el Comando General del Ejercito, para ahondar en el tema podes seguir el link que hay abajo.",
+            "agregado": "el",
+            "latitud": -34.88219374926296,
+            "longitud": -56.1681265696972,
+            "link": "https://www.ejercito.mil.uy"
+        },
+        {
+            "nombreCompleto": "Gran Club Atletico Yale",
+            "lugar": "gran club atletico",
+            "nombre": "Yale",
+            "descripcion": "Lugar donde pasan cosas que solamente podrían pasar en el an Gran Club Atletico Yale, para ahondar en el tema podes seguir el link que hay abajo.",
+            "agregado": "el",
+            "latitud": -34.87322768030755,
+            "longitud": -56.17433406971233,
+            "link": "https://maps.app.goo.gl/9zW8WkVn2iVCgg939"
+        },
+        {
+            "nombreCompleto": "Liceo Nº 26 Líber Falco",
+            "lugar": "liceo Nº 26",
+            "nombre": "Líber Falco",
+            "descripcion": "Liceo conmemorativo al ilustre y nunca bien ponderado poeta nacional Líber Falco quien desde sus 16 años y hasta el final de su vida dedicó cuerpo y alma a la que fue su arte, la literatura.",
+            "agregado": "el",
+            "latitud": -34.871976576172145,
+            "longitud": -56.17352125506034,
+            "link": "https://maps.app.goo.gl/6M2kCoiKCGvMCm1V8"
+        }
+
+    ]
+}
+
+
