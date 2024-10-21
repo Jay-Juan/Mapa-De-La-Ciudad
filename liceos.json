@@ -1,44 +1,64 @@
 {
     "liceos": [
         {
-            "nombreCompleto": "Plaza Líber Falco",
-            "lugar": "plaza",
-            "nombre": "Líber Falco",
-            "descripcion": "Plaza dedicada al célebre autor Líber Falco, poeta de gran calibre quien nació en éste barrio.",
-            "agregado": "la",
-            "latitud": -34.8740120385437,
-            "longitud": -56.17610955260439,
-            "link": "https://es.wikipedia.org/wiki/Líber_Falco"
-        },
-        {
-            "nombreCompleto": "Comando General del Ejercito",
+            "nombreCompleto": "Kingdom TCG Store",
             "lugar": "",
-            "nombre": "comando general del ejercito",
-            "descripcion": "Lugar donde pasan cosas que solamente podrían pasar en el Comando General del Ejercito, para ahondar en el tema podes seguir el link que hay abajo.",
-            "agregado": "el",
-            "latitud": -34.88219374926296,
-            "longitud": -56.1681265696972,
-            "link": "https://www.ejercito.mil.uy"
+            "nombre": "Kingdom TCG Store",
+            "descripcion": "Si bien Kingdom se asentó en ciudad vieja hace poco tiempo, el valor cultural que le aporta a la misma es enorme aunque moderno.",
+            "agregado": "",
+            "latitud": -34.90502751802989, 
+            "longitud": -56.20317446187249,
+            "link": "https://www.instagram.com/kingdomtcgs/"
         },
         {
-            "nombreCompleto": "Gran Club Atletico Yale",
-            "lugar": "gran club atletico",
-            "nombre": "Yale",
-            "descripcion": "Lugar donde pasan cosas que solamente podrían pasar en el an Gran Club Atletico Yale, para ahondar en el tema podes seguir el link que hay abajo.",
-            "agregado": "el",
-            "latitud": -34.87322768030755,
-            "longitud": -56.17433406971233,
-            "link": "https://maps.app.goo.gl/9zW8WkVn2iVCgg939"
+            "nombreCompleto": "El Chamuyo",
+            "lugar": "",
+            "nombre": "El Chamuyo",
+            "descripcion": "El Chamuyo se ocupa donde antes estaba Espacio Guambia. Si bien ya no lleva el mismo nombre, sigue funcionando como un espacio donde compartir el arte.",
+            "agregado": "",
+            "latitud": -34.90516829768818, 
+            "longitud": -56.203882565065385,
+            "link": "https://www.instagram.com/elchamuyo591/"
         },
         {
-            "nombreCompleto": "Liceo Nº 26 Líber Falco",
-            "lugar": "liceo Nº 26",
-            "nombre": "Líber Falco",
-            "descripcion": "Liceo conmemorativo al ilustre y nunca bien ponderado poeta nacional Líber Falco quien desde sus 16 años y hasta el final de su vida dedicó cuerpo y alma a la que fue su arte, la literatura.",
+            "nombreCompleto": "Catedral de la Inmaculada Concepción y San Felipe y Santiago de Montevideo",
+            "lugar": "catedral",
+            "nombre": "de la Inmaculada Concepción y San Felipe y Santiago de Montevideo",
+            "descripcion": "Ésta catedral histórica de montevideo se alza desde la época colonial y sigue siendo lugar de refugio y reunión para los fieles del barrio.",
+            "agregado": "la",
+            "latitud": -34.90678724646166, 
+            "longitud": -56.20390402266636,
+            "link": "https://catedralmontevideo.com.uy"
+        },
+        {
+            "nombreCompleto": "Cabildo de Montevideo",
+            "lugar": "cabildo",
+            "nombre": "de Montevideo",
+            "descripcion": "Centro de la actividad política de Montevideo en la época colonial",
             "agregado": "el",
-            "latitud": -34.871976576172145,
-            "longitud": -56.17352125506034,
-            "link": "https://maps.app.goo.gl/6M2kCoiKCGvMCm1V8"
+            "latitud": -34.90657108438729, 
+            "longitud": -56.20284245864228,
+            "link": "https://cabildo.montevideo.gub.uy"
+        },
+        {
+            "nombreCompleto": "Plaza Manuel Cipriano de Melo",
+            "lugar": "plaza",
+            "nombre": "Manuel Cipriano de Melo",
+            "descripcion": "Plaza dedicada a una ilustre persona de nombre Manuel Cipriano de Melo cuya contribución a la sociedad le ameritó una plaza a su nombre, por lo que se asume que fue significativa.",
+            "agregado": "la",
+            "latitud": -34.91035714719118, 
+            "longitud": -56.206239156878524,
+            "link": "https://maps.app.goo.gl/hM8RV1VuB2q4VUgX9"
+        },
+        {
+            "nombreCompleto": "Plaza Zabala",
+            "lugar": "plaza",
+            "nombre": "Zabala",
+            "descripcion": "Ésta plaza oficiaba como el centro de comercio y reunión en la época de la colonia.",
+            "agregado": "la",
+            "latitud": -34.90751622762448, 
+            "longitud": -56.208105087045496,
+            "link": "https://maps.app.goo.gl/j87h8GcZ7U47Fqan7"
         }
 
     ]

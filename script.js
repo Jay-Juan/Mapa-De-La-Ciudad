@@ -1,5 +1,5 @@
-var map = L.map('map').setView([-34.87489315449147, -56.170097067343214], 15);
-//-34.856338172884705, 
+var map = L.map('map').setView([-34.90688644068569, -56.20641262298822], 15);
+//-34.90688644068569, 
 L.tileLayer('https://api.maptiler.com/maps/basic-v2/{z}/{x}/{y}.png?key=th1B7ltIffQzw1VZAQcG', {
     attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
 }).addTo(map);
